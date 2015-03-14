@@ -2,7 +2,6 @@
 module Main where
 import Data.Char
 import Data.List
-import Control.Applicative
 }
 
 %wrapper "basic"
