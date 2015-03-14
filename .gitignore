@@ -1,3 +1,5 @@
 *.hi
 *.o
 *~
+p022.hs
+p022_names.txt
